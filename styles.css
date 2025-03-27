@@ -1,7 +1,23 @@
+@font-face{
+    font-family: departure-mono;
+    src: url(fonts/departure-mono.otf);
+}
+
+.container {
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 h1 {
     color: white;
+    font-family: 'departure-mono'
 }
 
 body {
     background-color: blue;
 }
+
+
+
