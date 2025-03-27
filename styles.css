@@ -8,11 +8,16 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    text-align: center;
+}
+
+.container h1 {
+    text-align: center;
 }
 
 h1 {
     color: white;
-    font-family: 'departure-mono'
+    font-family: 'departure-mono';
 }
 
 body {
